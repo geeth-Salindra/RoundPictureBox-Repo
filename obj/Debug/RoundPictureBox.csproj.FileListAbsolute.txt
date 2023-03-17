@@ -1,0 +1,10 @@
+C:\Users\geeth\source\repos\RoundPictureBox\RoundPictureBox\bin\Debug\RoundPictureBox.exe.config
+C:\Users\geeth\source\repos\RoundPictureBox\RoundPictureBox\bin\Debug\RoundPictureBox.exe
+C:\Users\geeth\source\repos\RoundPictureBox\RoundPictureBox\bin\Debug\RoundPictureBox.pdb
+C:\Users\geeth\source\repos\RoundPictureBox\RoundPictureBox\obj\Debug\RoundPictureBox.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\RoundPictureBox\RoundPictureBox\obj\Debug\RoundPictureBox.Properties.Resources.resources
+C:\Users\geeth\source\repos\RoundPictureBox\RoundPictureBox\obj\Debug\RoundPictureBox.csproj.GenerateResource.cache
+C:\Users\geeth\source\repos\RoundPictureBox\RoundPictureBox\obj\Debug\RoundPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\RoundPictureBox\RoundPictureBox\obj\Debug\RoundPictureBox.exe
+C:\Users\geeth\source\repos\RoundPictureBox\RoundPictureBox\obj\Debug\RoundPictureBox.pdb
+C:\Users\geeth\source\repos\RoundPictureBox\RoundPictureBox\obj\Debug\RoundPictureBox.Form1.resources
